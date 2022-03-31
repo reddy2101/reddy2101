@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reddy2101
 - 👀 I’m interested in AI/Machine Learning.
-- 🌱 I’m currently learning as Data Engineer.
-- 💞️ I’m looking to collaborate on projects involved with complex data and robust projects...
+- 🌱 I’m currently working as Data Engineer.
+- 💞️ I’m looking to collaborate on projects involved with complex data and robust analytical model projects...
 - 📫 How to reach me ...
 
 <!---
